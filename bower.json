@@ -1,0 +1,25 @@
+{
+  "name": "foundation6t",
+  "version": "0.0.0",
+  "authors": [
+    "henrique <henriquemacosi@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "~6.0.6"
+  }
+}

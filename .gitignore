@@ -1,0 +1,6 @@
+bower_components/
+js/*
+!js/app.js
+node_modules/
+scss/*
+!scss/app.scss
