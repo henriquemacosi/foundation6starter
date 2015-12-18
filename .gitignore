@@ -1,5 +1,5 @@
 bower_components/
-css/*
+css/
 js/*
 !js/app.js
 node_modules/
